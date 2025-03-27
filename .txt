@@ -1,0 +1,1 @@
+Web dengan menggunakan Astro Js dengan perpaduan tailwindcss, saya akan belajar membuat web melalui video "FrontEndTribe"
